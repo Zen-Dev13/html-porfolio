@@ -19,4 +19,4 @@ This project demonstrates a basic HTML portfolio layout, with sections for proje
 - "About Me" and "Contact Me" pages
 
 
-<img width="917" height="946" alt="Sol" src="https://github.com/user-attachments/assets/2455c8d8-b1c3-4b90-bb88-331e7dc1e0fb" />
+[<img width="917" height="946" alt="Sol" src="https://github.com/user-attachments/assets/2455c8d8-b1c3-4b90-bb88-331e7dc1e0fb" />](https://github.com/Zen-Dev13/html-porfolio/blob/main/assets/images/Sol.png)
